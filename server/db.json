@@ -1,0 +1,2240 @@
+{
+	"nodes": [{
+		"id": 0,
+		"name": "Swiss Reinsurance Company Ltd",
+		"size": 17,
+		"group": 324
+	},
+	{
+		"id": 1,
+		"name": "European Finance Reinsurance Company Ltd.",
+		"size": 17,
+		"group": 190
+	},
+	{
+		"id": 2,
+		"name": "Swiss Re Asia Ltd",
+		"size": 17,
+		"group": 188
+	},
+	{
+		"id": 3,
+		"name": "First Specialty Insurance Corporation",
+		"size": 17,
+		"group": 946
+	},
+	{
+		"id": 4,
+		"name": "North American Capacity Insurance Company",
+		"size": 7,
+		"group": 285
+	},
+	{
+		"id": 5,
+		"name": "North American Elite Insurance Company",
+		"size": 7,
+		"group": 285
+	},
+	{
+		"id": 6,
+		"name": "North American Specialty Insurance Company",
+		"size": 17,
+		"group": 285
+	},
+	{
+		"id": 7,
+		"name": "Orpington Structured Finance II Limited",
+		"size": 17,
+		"group": 958
+	},
+	{
+		"id": 8,
+		"name": "Reassure UK Life Assurance Company Limited",
+		"size": 7,
+		"group": 100001
+	},
+	{
+		"id": 9,
+		"name": "Swiss Re Capital Markets Corporation",
+		"size": 17,
+		"group": 550
+	},
+	{
+		"id": 10,
+		"name": "Swiss Re Capital Markets Limited",
+		"size": 17,
+		"group": 637
+	},
+	{
+		"id": 11,
+		"name": "Swiss Re Europe S.A.",
+		"size": 17,
+		"group": 757
+	},
+	{
+		"id": 12,
+		"name": "Swiss Re Europe S.A., Sucursal en España",
+		"size": 7,
+		"group": 757
+	},
+	{
+		"id": 13,
+		"name": "Swiss Re Europe S.A., filial af Swiss Re Europe S.A., Luxembourg",
+		"size": 7,
+		"group": 757
+	},
+	{
+		"id": 14,
+		"name": "Swiss Re Europe S.A., Nederlandse vestiging",
+		"size": 7,
+		"group": 757
+	},
+	{
+		"id": 15,
+		"name": "Swiss Re Europe S.A., Niederlassung Deutschland",
+		"size": 7,
+		"group": 757
+	},
+	{
+		"id": 16,
+		"name": "Swiss Re Europe S.A., Rappresentanza per l'Italia",
+		"size": 7,
+		"group": 757
+	},
+	{
+		"id": 17,
+		"name": "Swiss Re Europe S.A., Succursale de Paris",
+		"size": 7,
+		"group": 757
+	},
+	{
+		"id": 18,
+		"name": "Swiss Re Europe S.A., UK branch",
+		"size": 7,
+		"group": 757
+	},
+	{
+		"id": 19,
+		"name": "Swiss Re Financial Products Corporation",
+		"size": 17,
+		"group": 529
+	},
+	{
+		"id": 20,
+		"name": "Swiss Re International SE, Luxembourg, Zurich Branch",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 21,
+		"name": "Swiss Re International SE, Nederlandse vestiging",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 22,
+		"name": "Swiss Re International SE, New York Contact Office for International Business",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 23,
+		"name": "Swiss Re International SE, Niederlassung Deutschland",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 24,
+		"name": "Swiss Re International SE, UK branch",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 25,
+		"name": "Swiss Re International SE - Zurich - International Business",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 26,
+		"name": "Swiss Re Life & Health America Holding Company",
+		"size": 17,
+		"group": 764
+	},
+	{
+		"id": 27,
+		"name": "Swiss Re Life & Health America Inc.",
+		"size": 7,
+		"group": 764
+	},
+	{
+		"id": 28,
+		"name": "Swiss Re Life & Health Australia Limited",
+		"size": 17,
+		"group": 584
+	},
+	{
+		"id": 29,
+		"name": "Swiss Re Life and Health Africa Limited",
+		"size": 17,
+		"group": 586
+	},
+	{
+		"id": 30,
+		"name": "Swiss Re Services Limited",
+		"size": 17,
+		"group": 735
+	},
+	{
+		"id": 31,
+		"name": "Swiss Re Europe Holdings S.A.",
+		"size": 17,
+		"group": 689
+	},
+	{
+		"id": 32,
+		"name": "Swiss Re Treasury (US) Corporation",
+		"size": 17,
+		"group": 756
+	},
+	{
+		"id": 33,
+		"name": "Swiss Reinsurance America Corporation",
+		"size": 17,
+		"group": 760
+	},
+	{
+		"id": 34,
+		"name": "Swiss Reinsurance Company Ltd, Beijing Branch",
+		"size": 7,
+		"group": 324
+	},
+	{
+		"id": 35,
+		"name": "Swiss Reinsurance Company Ltd, Japan Branch",
+		"size": 7,
+		"group": 324
+	},
+	{
+		"id": 36,
+		"name": "Swiss Reinsurance Company Ltd, Canadian Branch",
+		"size": 7,
+		"group": 324
+	},
+	{
+		"id": 37,
+		"name": "Swiss Reinsurance Company Ltd, Australia Branch",
+		"size": 7,
+		"group": 324
+	},
+	{
+		"id": 38,
+		"name": "Swiss Reinsurance Company Ltd, Hong Kong Branch",
+		"size": 7,
+		"group": 324
+	},
+	{
+		"id": 39,
+		"name": "Swiss Reinsurance Company Ltd, Korea Branch",
+		"size": 7,
+		"group": 324
+	},
+	{
+		"id": 40,
+		"name": "Swiss Reinsurance Company Ltd, Kuala Lumpur Branch",
+		"size": 7,
+		"group": 324
+	},
+	{
+		"id": 41,
+		"name": "Washington International Insurance Company",
+		"size": 7,
+		"group": 285
+	},
+	{
+		"id": 42,
+		"name": "Westport Insurance Corporation",
+		"size": 17,
+		"group": 755
+	},
+	{
+		"id": 43,
+		"name": "Westport Insurance Corporation - Canadian Branch",
+		"size": 7,
+		"group": 755
+	},
+	{
+		"id": 44,
+		"name": "Elips Life AG",
+		"size": 17,
+		"group": 945
+	},
+	{
+		"id": 45,
+		"name": "Swiss Re International SE, Japan Branch",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 46,
+		"name": "Swiss Re International SE, Rappresentanza per l'Italia",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 47,
+		"name": "Swiss Re International SE, Australia Branch",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 48,
+		"name": "Swiss Re Corporate Solutions Brasil Seguros S.A.",
+		"size": 17,
+		"group": 766
+	},
+	{
+		"id": 49,
+		"name": "Swiss Re Corporate Solutions Ltd",
+		"size": 17,
+		"group": 940
+	},
+	{
+		"id": 50,
+		"name": "Swiss Re International SE, Succursale pour la France",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 51,
+		"name": "Swiss Re International, filial af Swiss Re International SE",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 52,
+		"name": "Swiss Re Brasil Resseguros S.A.",
+		"size": 17,
+		"group": 949
+	},
+	{
+		"id": 53,
+		"name": "Swiss Re Risk Solutions Corporation",
+		"size": 17,
+		"group": 950
+	},
+	{
+		"id": 54,
+		"name": "Swiss Re International SE Singapore Branch",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 55,
+		"name": "Swiss Re Capital Markets Limited, Australia Branch",
+		"size": 7,
+		"group": 637
+	},
+	{
+		"id": 56,
+		"name": "Swiss Re Corporate Solutions Global Markets Inc.",
+		"size": 17,
+		"group": 965
+	},
+	{
+		"id": 57,
+		"name": "iptiQ Life S.A.",
+		"size": 17,
+		"group": 964
+	},
+	{
+		"id": 58,
+		"name": "iptiQ Life S.A., Niederlassung Deutschland",
+		"size": 7,
+		"group": 964
+	},
+	{
+		"id": 59,
+		"name": "Swiss Re Corporate Solutions Insurance China Ltd",
+		"size": 17,
+		"group": 971
+	},
+	{
+		"id": 60,
+		"name": "Swiss Re International SE, Sucursal en España",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 61,
+		"name": "Swiss Reinsurance Company Ltd, India Branch",
+		"size": 7,
+		"group": 324
+	},
+	{
+		"id": 62,
+		"name": "Swiss Re International SE, Hong Kong Branch",
+		"size": 7,
+		"group": 370
+	},
+	{
+		"id": 63,
+		"name": "Guardian Assurance Limited",
+		"size": 7,
+		"group": 741
+	},
+	{
+		"id": 64,
+		"name": "Swiss Re Life Capital Reinsurance Ltd",
+		"size": 17,
+		"group": 100103
+	},
+	{
+		"id": 65,
+		"name": "Swiss Reinsurance Company Ltd, Canadian Branch - P&C",
+		"size": 7,
+		"group": 324
+	}],
+	"links": [{
+		"source": 46,
+		"target": 16,
+		"name": "QS: Strada",
+		"value": 1
+	},
+	{
+		"source": 0,
+		"target": 64,
+		"name": "QS: 137-6214567C",
+		"value": 1
+	},
+	{
+		"source": 27,
+		"target": 64,
+		"name": "QS: 684413-6214567B",
+		"value": 1
+	},
+	{
+		"source": 3,
+		"target": 33,
+		"name": "QS: FSIC-1",
+		"value": 1
+	},
+	{
+		"source": 3,
+		"target": 42,
+		"name": "QS: FSIC-2-a",
+		"value": 1
+	},
+	{
+		"source": 3,
+		"target": 42,
+		"name": "QS: FSIC-2-a-13",
+		"value": 1
+	},
+	{
+		"source": 3,
+		"target": 42,
+		"name": "QS: FSIC-2-b",
+		"value": 1
+	},
+	{
+		"source": 3,
+		"target": 42,
+		"name": "QS: FSIC-2-b-13",
+		"value": 1
+	},
+	{
+		"source": 3,
+		"target": 42,
+		"name": "QS: FSIC-3-a",
+		"value": 1
+	},
+	{
+		"source": 3,
+		"target": 42,
+		"name": "QS: FSIC-3-b",
+		"value": 1
+	},
+	{
+		"source": 3,
+		"target": 42,
+		"name": "QS: FSIC-4",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 33,
+		"name": "QS: NAC-1",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 42,
+		"name": "QS: NAC-2-a",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 42,
+		"name": "QS: NAC-2-a-13",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 42,
+		"name": "QS: NAC-2-b",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 42,
+		"name": "QS: NAC-2-b-13",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 33,
+		"name": "QS: NAC-3-13-a",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 33,
+		"name": "QS: NAC-3-13-b",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 33,
+		"name": "QS: NAC-3-a",
+		"value": 1
+	},
+	{
+		"source": 4,
+		"target": 33,
+		"name": "QS: NAC-3-b",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 33,
+		"name": "QS: NAE-1",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 42,
+		"name": "QS: NAE-2-a",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 42,
+		"name": "QS: NAE-2-a-13",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 42,
+		"name": "QS: NAE-2-b",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 42,
+		"name": "QS: NAE-2-b-13",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 33,
+		"name": "QS: NAE-3-13-a",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 33,
+		"name": "QS: NAE-3-13-b",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 33,
+		"name": "QS: NAE-3-a",
+		"value": 1
+	},
+	{
+		"source": 5,
+		"target": 33,
+		"name": "QS: NAE-3-b",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 33,
+		"name": "QS: NAS-1-a",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 42,
+		"name": "QS: NAS-2-a",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 42,
+		"name": "QS: NAS-2-a-13",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 42,
+		"name": "QS: NAS-2-b",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 42,
+		"name": "QS: NAS-2-b-13",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 33,
+		"name": "QS: NAS-3-13-a",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 33,
+		"name": "QS: NAS-3-13-b",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 33,
+		"name": "QS: NAS-3-a",
+		"value": 1
+	},
+	{
+		"source": 6,
+		"target": 33,
+		"name": "QS: NAS-3-b",
+		"value": 1
+	},
+	{
+		"source": 34,
+		"target": 49,
+		"name": "QS: NL-006-SRAL-CS",
+		"value": 1
+	},
+	{
+		"source": 17,
+		"target": 0,
+		"name": "QS: NL-010-10-nb",
+		"value": 1
+	},
+	{
+		"source": 17,
+		"target": 0,
+		"name": "QS: NL-010-10-nb-13",
+		"value": 1
+	},
+	{
+		"source": 17,
+		"target": 0,
+		"name": "QS: NL-010-10-nb-14",
+		"value": 1
+	},
+	{
+		"source": 17,
+		"target": 0,
+		"name": "QS: NL-010-nb",
+		"value": 1
+	},
+	{
+		"source": 17,
+		"target": 0,
+		"name": "QS: NL-010-ob",
+		"value": 1
+	},
+	{
+		"source": 12,
+		"target": 0,
+		"name": "QS: NL-015-nb",
+		"value": 1
+	},
+	{
+		"source": 12,
+		"target": 0,
+		"name": "QS: NL-015-nb-13",
+		"value": 1
+	},
+	{
+		"source": 12,
+		"target": 0,
+		"name": "QS: NL-015-nb-14",
+		"value": 1
+	},
+	{
+		"source": 12,
+		"target": 0,
+		"name": "QS: NL-015-ob",
+		"value": 1
+	},
+	{
+		"source": 16,
+		"target": 0,
+		"name": "QS: NL-019-nb",
+		"value": 1
+	},
+	{
+		"source": 16,
+		"target": 0,
+		"name": "QS: NL-019-nb-13",
+		"value": 1
+	},
+	{
+		"source": 16,
+		"target": 0,
+		"name": "QS: NL-019-nb-14",
+		"value": 1
+	},
+	{
+		"source": 16,
+		"target": 0,
+		"name": "QS: NL-019-ob",
+		"value": 1
+	},
+	{
+		"source": 39,
+		"target": 2,
+		"name": "QS: NL-030",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 49,
+		"name": "QS: NL-030-12-2-a",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 49,
+		"name": "QS: NL-030-12-2-b",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 49,
+		"name": "QS: NL-030-13-2-a",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 49,
+		"name": "QS: NL-030-13-2-b",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 49,
+		"name": "QS: NL-030-14-2-a",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 49,
+		"name": "QS: NL-030-14-2-b",
+		"value": 1
+	},
+	{
+		"source": 39,
+		"target": 2,
+		"name": "QS: NL-030-16",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 49,
+		"name": "QS: NL-030-SRAL-CS",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 49,
+		"name": "QS: NL-030-SRAL-CS-16",
+		"value": 1
+	},
+	{
+		"source": 37,
+		"target": 2,
+		"name": "QS: NL-055-nb-d",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 0,
+		"name": "QS: NL-064",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 49,
+		"name": "QS: NL-095-12-a",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 49,
+		"name": "QS: NL-095-12-b",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 49,
+		"name": "QS: NL-095-13-a",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 49,
+		"name": "QS: NL-095-13-b",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 49,
+		"name": "QS: NL-095-14-a",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 49,
+		"name": "QS: NL-095-14-b",
+		"value": 1
+	},
+	{
+		"source": 43,
+		"target": 65,
+		"name": "QS: NL-133-nb",
+		"value": 1
+	},
+	{
+		"source": 47,
+		"target": 2,
+		"name": "QS: NL-160-12-d",
+		"value": 1
+	},
+	{
+		"source": 54,
+		"target": 49,
+		"name": "QS: NL-193",
+		"value": 1
+	},
+	{
+		"source": 40,
+		"target": 2,
+		"name": "QS: NL-QS_SRZ KL-SRAL",
+		"value": 1
+	},
+	{
+		"source": 63,
+		"target": 64,
+		"name": "QS: New Longevity Swap",
+		"value": 1
+	},
+	{
+		"source": 61,
+		"target": 2,
+		"name": "QS: SR India to SRAL",
+		"value": 1
+	},
+	{
+		"source": 52,
+		"target": 0,
+		"name": "QS: SRB_DP200",
+		"value": 1
+	},
+	{
+		"source": 48,
+		"target": 49,
+		"name": "QS: SRCSB_1",
+		"value": 1
+	},
+	{
+		"source": 48,
+		"target": 49,
+		"name": "QS: SRCSB_ECM",
+		"value": 1
+	},
+	{
+		"source": 47,
+		"target": 37,
+		"name": "QS: SRIAU-SRZAU OPERA",
+		"value": 1
+	},
+	{
+		"source": 47,
+		"target": 37,
+		"name": "QS: SRIAU-SRZAU OPERA Reserves",
+		"value": 1
+	},
+	{
+		"source": 38,
+		"target": 0,
+		"name": "QS: SRZHK-SRZ QS",
+		"value": 1
+	},
+	{
+		"source": 10,
+		"target": 56,
+		"name": "QS: SR_CML_ECM",
+		"value": 1
+	},
+	{
+		"source": 43,
+		"target": 65,
+		"name": "QS: WIC CA-R13-a",
+		"value": 1
+	},
+	{
+		"source": 43,
+		"target": 65,
+		"name": "QS: WIC CA-R13-b",
+		"value": 1
+	},
+	{
+		"source": 41,
+		"target": 33,
+		"name": "QS: WIIC-1",
+		"value": 1
+	},
+	{
+		"source": 41,
+		"target": 33,
+		"name": "QS: WIIC-1-15",
+		"value": 1
+	},
+	{
+		"source": 41,
+		"target": 42,
+		"name": "QS: WIIC-2",
+		"value": 1
+	},
+	{
+		"source": 41,
+		"target": 42,
+		"name": "QS: WIIC-2-13",
+		"value": 1
+	},
+	{
+		"source": 41,
+		"target": 42,
+		"name": "QS: WIIC-2-15",
+		"value": 1
+	},
+	{
+		"source": 34,
+		"target": 2,
+		"name": "QS: NL-006-nb",
+		"value": 1
+	},
+	{
+		"source": 34,
+		"target": 2,
+		"name": "QS: NL-006-nb-13",
+		"value": 1
+	},
+	{
+		"source": 34,
+		"target": 2,
+		"name": "QS: NL-006-ob",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-007-nb-2",
+		"value": 1
+	},
+	{
+		"source": 37,
+		"target": 2,
+		"name": "CXL: NL-053-nb-13",
+		"value": 2
+	},
+	{
+		"source": 46,
+		"target": 49,
+		"name": "QS: NL-085-12",
+		"value": 1
+	},
+	{
+		"source": 46,
+		"target": 49,
+		"name": "QS: NL-085-13",
+		"value": 1
+	},
+	{
+		"source": 25,
+		"target": 49,
+		"name": "QS: NL-087-12-1-CH",
+		"value": 1
+	},
+	{
+		"source": 22,
+		"target": 49,
+		"name": "QS: NL-087-12-1-NY",
+		"value": 1
+	},
+	{
+		"source": 24,
+		"target": 49,
+		"name": "QS: NL-087-12-1-UK",
+		"value": 1
+	},
+	{
+		"source": 25,
+		"target": 49,
+		"name": "QS: NL-087-13-1-CH",
+		"value": 1
+	},
+	{
+		"source": 22,
+		"target": 49,
+		"name": "QS: NL-087-13-1-NY",
+		"value": 1
+	},
+	{
+		"source": 24,
+		"target": 49,
+		"name": "QS: NL-087-13-1-UK",
+		"value": 1
+	},
+	{
+		"source": 25,
+		"target": 0,
+		"name": "QS: NL-087-nb-CH",
+		"value": 1
+	},
+	{
+		"source": 22,
+		"target": 0,
+		"name": "QS: NL-087-nb-NY",
+		"value": 1
+	},
+	{
+		"source": 24,
+		"target": 0,
+		"name": "QS: NL-087-nb-UK",
+		"value": 1
+	},
+	{
+		"source": 25,
+		"target": 0,
+		"name": "QS: NL-087-ob-CH",
+		"value": 1
+	},
+	{
+		"source": 22,
+		"target": 0,
+		"name": "QS: NL-087-ob-NY",
+		"value": 1
+	},
+	{
+		"source": 24,
+		"target": 0,
+		"name": "QS: NL-087-ob-UK",
+		"value": 1
+	},
+	{
+		"source": 23,
+		"target": 49,
+		"name": "QS: NL-089-12-1",
+		"value": 1
+	},
+	{
+		"source": 23,
+		"target": 49,
+		"name": "QS: NL-089-13-1",
+		"value": 1
+	},
+	{
+		"source": 23,
+		"target": 0,
+		"name": "QS: NL-089-nb",
+		"value": 1
+	},
+	{
+		"source": 23,
+		"target": 0,
+		"name": "QS: NL-089-ob",
+		"value": 1
+	},
+	{
+		"source": 21,
+		"target": 49,
+		"name": "QS: NL-091-12",
+		"value": 1
+	},
+	{
+		"source": 21,
+		"target": 49,
+		"name": "QS: NL-091-13",
+		"value": 1
+	},
+	{
+		"source": 21,
+		"target": 0,
+		"name": "QS: NL-091-nb",
+		"value": 1
+	},
+	{
+		"source": 21,
+		"target": 0,
+		"name": "QS: NL-091-ob",
+		"value": 1
+	},
+	{
+		"source": 47,
+		"target": 49,
+		"name": "CXL: NL-160-13",
+		"value": 2
+	},
+	{
+		"source": 45,
+		"target": 49,
+		"name": "QS: NL-165-12",
+		"value": 1
+	},
+	{
+		"source": 45,
+		"target": 49,
+		"name": "QS: NL-165-13",
+		"value": 1
+	},
+	{
+		"source": 45,
+		"target": 0,
+		"name": "QS: NL-165-nb",
+		"value": 1
+	},
+	{
+		"source": 45,
+		"target": 49,
+		"name": "QS: NL-166-12",
+		"value": 1
+	},
+	{
+		"source": 45,
+		"target": 49,
+		"name": "QS: NL-166-13",
+		"value": 1
+	},
+	{
+		"source": 45,
+		"target": 0,
+		"name": "QS: NL-166-nb",
+		"value": 1
+	},
+	{
+		"source": 50,
+		"target": 49,
+		"name": "QS: NL-171-12-nb",
+		"value": 1
+	},
+	{
+		"source": 50,
+		"target": 49,
+		"name": "QS: NL-171-13-nb",
+		"value": 1
+	},
+	{
+		"source": 20,
+		"target": 49,
+		"name": "QS: NL-QS -12 -SRI ZH-CS",
+		"value": 1
+	},
+	{
+		"source": 20,
+		"target": 49,
+		"name": "QS: NL-QS -13 -SRI ZH-CS",
+		"value": 1
+	},
+	{
+		"source": 59,
+		"target": 49,
+		"name": "QS: NL-QS_CSChina-CS",
+		"value": 1
+	},
+	{
+		"source": 51,
+		"target": 49,
+		"name": "QS: NL-QS_SRI Den-CS",
+		"value": 1
+	},
+	{
+		"source": 60,
+		"target": 49,
+		"name": "QS: NL-QS_SRI Spa-CS",
+		"value": 1
+	},
+	{
+		"source": 62,
+		"target": 49,
+		"name": "QS: SRIHK-CS QS",
+		"value": 1
+	},
+	{
+		"source": 23,
+		"target": 49,
+		"name": "QS: NL-089-13-xl-qs",
+		"value": 1
+	},
+	{
+		"source": 47,
+		"target": 2,
+		"name": "QS: NL-164",
+		"value": 1
+	},
+	{
+		"source": 37,
+		"target": 2,
+		"name": "SLN: NL-185-13",
+		"value": 4
+	},
+	{
+		"source": 34,
+		"target": 2,
+		"name": "QS: 1213709-47802",
+		"value": 1
+	},
+	{
+		"source": 28,
+		"target": 0,
+		"name": "QS: 18055-137",
+		"value": 1
+	},
+	{
+		"source": 28,
+		"target": 0,
+		"name": "QS: 18055-137 A1",
+		"value": 1
+	},
+	{
+		"source": 28,
+		"target": 0,
+		"name": "QS: 18055-137 B1",
+		"value": 1
+	},
+	{
+		"source": 28,
+		"target": 0,
+		"name": "QS: 18055-137 B2",
+		"value": 1
+	},
+	{
+		"source": 28,
+		"target": 0,
+		"name": "QS: 18055-137 B3",
+		"value": 1
+	},
+	{
+		"source": 8,
+		"target": 0,
+		"name": "QS: 1937909-137",
+		"value": 1
+	},
+	{
+		"source": 11,
+		"target": 0,
+		"name": "QS: 2604835-137",
+		"value": 1
+	},
+	{
+		"source": 12,
+		"target": 0,
+		"name": "QS: 3060420-137",
+		"value": 1
+	},
+	{
+		"source": 13,
+		"target": 0,
+		"name": "QS: 3060450-137",
+		"value": 1
+	},
+	{
+		"source": 14,
+		"target": 0,
+		"name": "QS: 3060504-137",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: 3060516-137",
+		"value": 1
+	},
+	{
+		"source": 16,
+		"target": 0,
+		"name": "QS: 3060523-137",
+		"value": 1
+	},
+	{
+		"source": 17,
+		"target": 0,
+		"name": "QS: 3060535-137",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: 3060554-137 A",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: 3060554-137 B",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: 3060554-137 C",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: 3060554-137 D",
+		"value": 1
+	},
+	{
+		"source": 44,
+		"target": 64,
+		"name": "QS: 3404471-6214567",
+		"value": 1
+	},
+	{
+		"source": 26,
+		"target": 0,
+		"name": "QS: 57229-137",
+		"value": 1
+	},
+	{
+		"source": 57,
+		"target": 64,
+		"name": "QS: 6116905-6214567",
+		"value": 1
+	},
+	{
+		"source": 58,
+		"target": 64,
+		"name": "QS: 6117283-6214567",
+		"value": 1
+	},
+	{
+		"source": 27,
+		"target": 0,
+		"name": "QS: 684413-137 B",
+		"value": 1
+	},
+	{
+		"source": 27,
+		"target": 0,
+		"name": "QS: 684413-137 C",
+		"value": 1
+	},
+	{
+		"source": 27,
+		"target": 0,
+		"name": "QS: 684413-137 D",
+		"value": 1
+	},
+	{
+		"source": 27,
+		"target": 2,
+		"name": "QS: 684413-47802",
+		"value": 1
+	},
+	{
+		"source": 27,
+		"target": 64,
+		"name": "QS: 684413-6214567A",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: NL-095-nb-08",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: NL-095-nb-10",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: NL-095-nb-12",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: NL-095-nb-13",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: NL-095-nb-14",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "QS: NL-095-ob",
+		"value": 1
+	},
+	{
+		"source": 43,
+		"target": 49,
+		"name": "QS: WIC CA-30-13-a",
+		"value": 1
+	},
+	{
+		"source": 43,
+		"target": 49,
+		"name": "QS: WIC CA-30-13-b",
+		"value": 1
+	},
+	{
+		"source": 0,
+		"target": 64,
+		"name": "QS: 137-6214567A",
+		"value": 1
+	},
+	{
+		"source": 0,
+		"target": 64,
+		"name": "QS: 137-6214567B",
+		"value": 1
+	},
+	{
+		"source": 8,
+		"target": 18,
+		"name": "QS: 1937909-3060554 A",
+		"value": 1
+	},
+	{
+		"source": 8,
+		"target": 18,
+		"name": "QS: 1937909-3060554 B",
+		"value": 1
+	},
+	{
+		"source": 8,
+		"target": 18,
+		"name": "QS: 1937909-3060554 C",
+		"value": 1
+	},
+	{
+		"source": 36,
+		"target": 2,
+		"name": "QS: 6208637-47802-M",
+		"value": 1
+	},
+	{
+		"source": 36,
+		"target": 2,
+		"name": "QS: 6208637-47802-P",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-009-nb",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-009-nb-13",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-009-ob",
+		"value": 1
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "QS: NL-130-nb-13-T",
+		"value": 1
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "QS: NL-130-nb-13-b",
+		"value": 1
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "QS: NL-130-nb-b",
+		"value": 1
+	},
+	{
+		"source": 47,
+		"target": 49,
+		"name": "SLN: NL-175-13",
+		"value": 4
+	},
+	{
+		"source": 43,
+		"target": 49,
+		"name": "SLN: WIC CA-32-13",
+		"value": 4
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-007-nb",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-007-nb-13",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-007-ob",
+		"value": 1
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "QS: NL-130-nb-13-a",
+		"value": 1
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "QS: NL-130-nb-a",
+		"value": 1
+	},
+	{
+		"source": 43,
+		"target": 49,
+		"name": "CXL: WIC CA-CAT",
+		"value": 2
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-XL_SRZ Jap-SRAL",
+		"value": 1
+	},
+	{
+		"source": 35,
+		"target": 2,
+		"name": "QS: NL-XL_SRZ Jap-SRAL-T",
+		"value": 1
+	},
+	{
+		"source": 36,
+		"target": 11,
+		"name": "QS: 6208637-2604835-M",
+		"value": 1
+	},
+	{
+		"source": 36,
+		"target": 11,
+		"name": "QS: 6208637-2604835-P",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "CXL: NL-040-13",
+		"value": 2
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "CXL: NL-132-nb",
+		"value": 2
+	},
+	{
+		"source": 0,
+		"target": 49,
+		"name": "QS: NL-180-12-nb-a",
+		"value": 1
+	},
+	{
+		"source": 0,
+		"target": 49,
+		"name": "QS: NL-180-12-nb-b",
+		"value": 1
+	},
+	{
+		"source": 0,
+		"target": 49,
+		"name": "QS: NL-180-13-nb-a",
+		"value": 1
+	},
+	{
+		"source": 0,
+		"target": 49,
+		"name": "QS: NL-180-13-nb-b",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-14-a",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-14-b",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-15-PS-T",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-15-PS-a",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-15-PS-b",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-16-PS-T",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-16-PS-b",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-17-PS-T",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-17-PS-b",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 33,
+		"name": "QS: WIC-1-a",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 33,
+		"name": "QS: WIC-3-a",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 33,
+		"name": "QS: WIC-3-a-13",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 33,
+		"name": "QS: WIC-3-b",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 33,
+		"name": "QS: WIC-3-b-13",
+		"value": 1
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "SL: NL-131-T",
+		"value": 3
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "CXL: NL-131-nb",
+		"value": 2
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "CXL: NL-040-14",
+		"value": 2
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-01",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-09",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-15-C-T",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-15-C-a",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-15-C-b",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-16-C-T",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-16-C-b",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-17-C-T",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: SRA-1-17-C-b",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-026-nb",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-026-nb-12",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-026-nb-13",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-026-nb-14",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-026-nb-2",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "CXL: NL-040-15",
+		"value": 2
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "SL: NL-040-15-T",
+		"value": 3
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "CXL: NL-040-16",
+		"value": 2
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "SL: NL-040-16-T",
+		"value": 3
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "CXL: NL-040-17",
+		"value": 2
+	},
+	{
+		"source": 42,
+		"target": 49,
+		"name": "QS: WIC-US-26-T",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 49,
+		"name": "QS: WIC-US-26-a",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 49,
+		"name": "QS: WIC-US-26-b",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "SL: NL-040-17-T",
+		"value": 3
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-030-nb",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-030-nb-12",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-030-nb-13",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-030-nb-14",
+		"value": 1
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "QS: NL-030-ob",
+		"value": 1
+	},
+	{
+		"source": 42,
+		"target": 49,
+		"name": "CXL: WIC US-27-13",
+		"value": 2
+	},
+	{
+		"source": 42,
+		"target": 49,
+		"name": "SL: WIC US-27-13-T",
+		"value": 3
+	},
+	{
+		"source": 42,
+		"target": 0,
+		"name": "QS: NL-068",
+		"value": 1
+	},
+	{
+		"source": 17,
+		"target": 0,
+		"name": "SLN: NL-011",
+		"value": 4
+	},
+	{
+		"source": 12,
+		"target": 0,
+		"name": "SLN: NL-016",
+		"value": 4
+	},
+	{
+		"source": 16,
+		"target": 0,
+		"name": "SLN: NL-021",
+		"value": 4
+	},
+	{
+		"source": 15,
+		"target": 0,
+		"name": "SLN: NL-027",
+		"value": 4
+	},
+	{
+		"source": 65,
+		"target": 11,
+		"name": "SLN: NL-033",
+		"value": 4
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "SLN: NL-047",
+		"value": 4
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "SL: NL-048ob",
+		"value": 3
+	},
+	{
+		"source": 33,
+		"target": 0,
+		"name": "QS: NL-049",
+		"value": 1
+	},
+	{
+		"source": 18,
+		"target": 0,
+		"name": "SLN: NL-052",
+		"value": 4
+	},
+	{
+		"source": 42,
+		"target": 0,
+		"name": "SL: NL-066",
+		"value": 3
+	},
+	{
+		"source": 46,
+		"target": 49,
+		"name": "SLN: NL-086-10-nb",
+		"value": 4
+	},
+	{
+		"source": 25,
+		"target": 49,
+		"name": "SLN: NL-088-1-nb-CH",
+		"value": 4
+	},
+	{
+		"source": 20,
+		"target": 49,
+		"name": "SLN: NL-088-1-nb-CH br LUX",
+		"value": 4
+	},
+	{
+		"source": 22,
+		"target": 49,
+		"name": "SLN: NL-088-1-nb-NY",
+		"value": 4
+	},
+	{
+		"source": 24,
+		"target": 49,
+		"name": "SLN: NL-088-1-nb-UK",
+		"value": 4
+	},
+	{
+		"source": 23,
+		"target": 49,
+		"name": "SLN: NL-090-nb",
+		"value": 4
+	},
+	{
+		"source": 21,
+		"target": 49,
+		"name": "SLN: NL-092-nb",
+		"value": 4
+	},
+	{
+		"source": 45,
+		"target": 49,
+		"name": "SLN: NL-170-nb",
+		"value": 4
+	},
+	{
+		"source": 50,
+		"target": 49,
+		"name": "SLN: NL-172-12-nb",
+		"value": 4
+	},
+	{
+		"source": 54,
+		"target": 49,
+		"name": "SLN: NL-194",
+		"value": 4
+	},
+	{
+		"source": 59,
+		"target": 49,
+		"name": "SLN: NL-SL_CSChina-CS",
+		"value": 4
+	},
+	{
+		"source": 51,
+		"target": 49,
+		"name": "SLN: NL-SL_SRI Den-CS",
+		"value": 4
+	},
+	{
+		"source": 60,
+		"target": 49,
+		"name": "SLN: NL-SL_SRI Spa-CS",
+		"value": 4
+	},
+	{
+		"source": 62,
+		"target": 49,
+		"name": "SLN: SRIHK-CS SL",
+		"value": 4
+	},
+	{
+		"source": 43,
+		"target": 49,
+		"name": "SLN: WIC CA-35-13",
+		"value": 4
+	},
+	{
+		"source": 42,
+		"target": 49,
+		"name": "SLN: WIC US-28",
+		"value": 4
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-186-13",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-13",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "SLN: XR-184-13",
+		"value": 4
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-14",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "SLN: XR-183-13",
+		"value": 4
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-14-EMEA",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-15",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-16",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-17",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 49,
+		"name": "QS: SRA-2-a",
+		"value": 1
+	},
+	{
+		"source": 33,
+		"target": 49,
+		"name": "QS: SRA-2-b",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "CXL: XR-181-14-1",
+		"value": 2
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-15-EMEA",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-16-EMEA",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "QS: XR-188-17-EMEA",
+		"value": 1
+	},
+	{
+		"source": 49,
+		"target": 0,
+		"name": "CXL: XR-181-14-2",
+		"value": 2
+	},
+	{
+		"source": 2,
+		"target": 0,
+		"name": "SLN: NL-158",
+		"value": 4
+	},
+	{
+		"source": 11,
+		"target": 0,
+		"name": "SLN: SRELux SL",
+		"value": 4
+	},
+	{
+		"source": 7,
+		"target": 19,
+		"name": "QS: GSRFPC1",
+		"value": 1
+	},
+	{
+		"source": 19,
+		"target": 0,
+		"name": "QS: UG1",
+		"value": 1
+	},
+	{
+		"source": 9,
+		"target": 0,
+		"name": "QS: UG2",
+		"value": 1
+	},
+	{
+		"source": 10,
+		"target": 0,
+		"name": "QS: UG3",
+		"value": 1
+	},
+	{
+		"source": 55,
+		"target": 0,
+		"name": "QS: UG3",
+		"value": 1
+	},
+	{
+		"source": 1,
+		"target": 0,
+		"name": "QS: UG4",
+		"value": 1
+	},
+	{
+		"source": 56,
+		"target": 49,
+		"name": "SL: GSRCS 26",
+		"value": 3
+	},
+	{
+		"source": 31,
+		"target": 0,
+		"name": "SL: GSRZ 12",
+		"value": 3
+	},
+	{
+		"source": 2,
+		"target": 0,
+		"name": "SL: GSRZ 15",
+		"value": 3
+	},
+	{
+		"source": 30,
+		"target": 0,
+		"name": "SL: GSRZ 21",
+		"value": 3
+	},
+	{
+		"source": 53,
+		"target": 0,
+		"name": "SL: GSRZ 25",
+		"value": 3
+	},
+	{
+		"source": 29,
+		"target": 0,
+		"name": "SL: GSRZ 30",
+		"value": 3
+	},
+	{
+		"source": 26,
+		"target": 0,
+		"name": "SL: GSRZ 31",
+		"value": 3
+	},
+	{
+		"source": 32,
+		"target": 0,
+		"name": "SL: GSRZ 5",
+		"value": 3
+	}]
+}
